@@ -8,7 +8,6 @@ Projeto realizado para facilitar as apresentações online. <br/>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -21,10 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
-- Figma
 
 ## 💻 Projeto
 
-O Projeto "Social Link" é um agregador de links para usar como cartão de visitas online.
-
-- [Acesse o projeto finalizado, online](https://joaotchuk.github.io/projeto-perfil/)
+- [Acesse o projeto finalizado, online](https://joaotchuk.github.io/portifolio-simples/)
